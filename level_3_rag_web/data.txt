@@ -1,0 +1,4 @@
+Python is a programming language.
+LLM engineering focuses on building applications using large language models.
+RAG allows LLMs to answer using private documents.
+FAISS is used for similarity search.

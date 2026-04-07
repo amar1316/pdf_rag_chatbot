@@ -1,4 +1,23 @@
+# Virtual Environment
+.venv/
+env/
 venv/
-.env
+ENV/
+
+# Python cache
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Environment Variables (SENSITIVE)
+.env
+
+# Streamlit logs/cache
+.streamlit/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# PDF Uploads (if stored locally)
+*.pdf
